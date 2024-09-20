@@ -1,8 +1,4 @@
-# add_transformers_php
-Projeto para cadastrar e editar dispositivos.
-
-
-# Intranet
+# Add_transformers_php
 
 * Este projeto foi desenvolvido em php, html, css e mysql. Para adicionar e gerenciar dispositivos em campo.
 * O sistema possui login;
