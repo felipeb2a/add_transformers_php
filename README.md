@@ -9,6 +9,8 @@
 * Para login de teste utilizar:
     * Usuario: admin@admin.com
     * Senha: admin
+    * Usuario: administrador@mail.com
+    * senha: 282513
 
 ## Imagens do Projeto
 
